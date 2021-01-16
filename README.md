@@ -1,6 +1,4 @@
 # rwd-projects
-rwd-projects
-
 My RWD Projects from freeCodeCamp:
 * Tribute Page
 * Survey Form
